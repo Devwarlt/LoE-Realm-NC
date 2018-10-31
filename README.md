@@ -13,9 +13,9 @@ LoE Realm New Chicago version source code project.
 # Requirements:
 
 ## Microsoft Visual Studio
-Download the Microsoft Visual Studio IDE to compile game server, link bellow:
+Download the Microsoft Visual Studio IDE to compile game server, link below:
 - https://www.visualstudio.com/downloads/
 
 ## Adobe Flex SDK 4.9.1
-Download the properly Adobe Flex SDK to compile game client, link bellow:
+Download the properly Adobe Flex SDK to compile game client, link below:
 - https://drive.google.com/uc?id=0B9pmoNsaxaKxQlh6MloycXZKazQ&export=download
