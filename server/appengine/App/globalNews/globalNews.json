@@ -1,0 +1,35 @@
+[
+  {
+    "slot": 1,
+    "linkType": 1,
+    "platform": "kabam.com,kongregate,steam,rotmg",
+    "startTime": 946684800000,
+    "title": "Get the source!",
+    "image": "https://raw.githubusercontent.com/FinnishFX/finnishfx.github.io/master/tfr/1.2/UpdateNews.png",
+    "endTime": 4080326400000,
+    "linkDetail": "https://github.com/Devwarlt/LoE-Realm-NC",
+    "priority": 100
+  },
+  {
+    "slot": 2,
+    "linkType": 2,
+    "platform": "kabam.com,kongregate,steam,rotmg",
+    "startTime": 946684800000,
+    "title": "Chicago Pack",
+    "image": "https://raw.githubusercontent.com/FinnishFX/finnishfx.github.io/master/tfr/1.2/UpdateTeaser.png",
+    "endTime": 4080326400000,
+    "linkDetail": 701,
+    "priority": 95
+  },
+  {
+    "slot": 3,
+    "linkType": 1,
+    "platform": "kabam.com,kongregate,steam,rotmg",
+    "startTime": 946684800000,
+    "title": "Join Us",
+    "image": "https://raw.githubusercontent.com/FinnishFX/finnishfx.github.io/master/tfr/static/DiscordBanner.png",
+    "endTime": 4080326400000,
+    "linkDetail": "https://discord.gg/jHNTjun",
+    "priority": 90
+  }
+]
